@@ -1,4 +1,4 @@
-# 表情包批量生产pronpt
+# 表情包批量生产prompt
 随手做的一个小玩具，仅提供参考图和prompt，请表明来源及AI声称标示
 
 陈千语表情包prompt如下:
@@ -94,4 +94,4 @@ Important:
 The final result must clearly be the character from image 1, but rendered with the expression, pose, composition, simplification, and lens radial blur style of image 2.
 Do not copy the identity of image 2.
 
-##注意，需要替换的图片放在第一张，表情包放在第二张##
+# 注意，需要替换的图片放在第一张，表情包放在第二张 #
