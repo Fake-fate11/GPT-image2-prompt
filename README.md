@@ -1,5 +1,9 @@
 # 表情包批量生产prompt
-随手做的一个小玩具，仅提供参考图和prompt，请表明来源及AI生成标识
+
+随手做的一个小玩具，仅提供参考图和prompt，请表明来源及AI生成标识，请自行寻找可用模型接口进行调用。
+
+# 注意，需要替换的图片放在第一张，表情包放在第二张 #
+
 
 陈千语表情包prompt如下:
 
@@ -94,5 +98,3 @@ Use a simple dark or black background if appropriate to match the reference feel
 Important:
 The final result must clearly be the character from image 1, but rendered with the expression, pose, composition, simplification, and lens radial blur style of image 2.
 Do not copy the identity of image 2.
-
-# 注意，需要替换的图片放在第一张，表情包放在第二张 #
