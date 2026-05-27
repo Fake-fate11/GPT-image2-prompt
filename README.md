@@ -1,7 +1,8 @@
 # 表情包批量生产prompt
-随手做的一个小玩具，仅提供参考图和prompt，请表明来源及AI声称标示
+随手做的一个小玩具，仅提供参考图和prompt，请表明来源及AI生成标识
 
 陈千语表情包prompt如下:
+
 Create a high-quality chibi anime portrait.
 
 Use image 1 only as the character identity reference.
