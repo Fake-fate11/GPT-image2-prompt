@@ -5,7 +5,7 @@
 Create a high-quality chibi anime portrait.
 
 Use image 1 only as the character identity reference.
-Preserve the character’s identity from image 1, including hairstyle, hair color, eye color, outfit, accessories (A pair of white wings), and overall character design. 
+Preserve the character’s identity from image 1, including hairstyle, hair color, eye color, outfit, accessories, and overall character design. 
 
 Use image 2 as the main reference for expression, pose, head angle, body posture, composition, visual simplification, and overall mood.
 Apart from character identity, follow image 2 as closely as possible.
